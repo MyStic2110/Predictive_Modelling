@@ -14,7 +14,9 @@ Data Dictionary:
 
 Variable Name	Description
 Carat	 Carat weight of the cubic zirconia.
+
 Cut	 Describe the cut quality of the cubic zirconia. Quality is increasing order Fair, Good, Very Good, Premium, Ideal.
+
 Color 	 Colour of the cubic zirconia.With D being the best and J the worst.
 Clarity	 cubic zirconia Clarity refers to the absence of the Inclusions and Blemishes.
 (In order from Best to Worst, FL = flawless, I3= level 3 inclusions) FL, IF, VVS1, VVS2, VS1, VS2, SI1, SI2, I1, I2, I3
